@@ -11,6 +11,9 @@ public class Dev1Application {
 	
 	@GetMapping("/")
 	public String getMassage() {
+		
+		hello.print();
+				
 		return "devops...!!!";
 		
 	}
