@@ -3,5 +3,4 @@ ddd# dev1
 fdxnytxwsg
 saadadasdsd
 ssssdedxdW
-dfdffsDSDDAZCXsssczasaaddasd
 ssssfdddfddSA
