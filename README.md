@@ -1,2 +1,1 @@
-ddq aevQ
-S
+ddqa
