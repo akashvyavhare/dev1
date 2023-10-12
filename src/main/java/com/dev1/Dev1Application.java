@@ -14,7 +14,7 @@ public class Dev1Application {
 		
 		hello.print();
 				
-		return "devops...Team!!!";
+		return "devops...!!!";
 		
 	}
 	public static void main(String[] args) {
