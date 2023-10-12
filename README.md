@@ -1,2 +1,2 @@
-ddq  sevQ
+ddq sdevQ
 S
