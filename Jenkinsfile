@@ -6,7 +6,7 @@ pipeline {
             steps {
                 echo 'Building..'
                 echo "Sleeping for 200 seconds..."
-                sleep 200
+                sleep 100
             }
         }
         stage('Test') {
